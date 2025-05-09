@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development-React.js,Router,JavaScript,HTML5,CSS,Python,SQL**
 
-- 💬 Ask me about **eact.js,Javascript,HTML,CSS,Java,Python**
+- 💬 Ask me about **React.js,Javascript,HTML,CSS,Java,Python**
 
 - 📫 How to reach me **reetagarg2017@gmail.com**
 
